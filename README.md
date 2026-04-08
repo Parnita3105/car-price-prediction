@@ -1,15 +1,15 @@
 # Car Price Prediction 🚗
 This project predicts car prices using machine learning.
-Features:
+# Features:
 - Data preprocessing
 - Feature selection
 - Regression model
-Technologies Used:
+# Technologies Used:
 - Python
 - Pandas
 - Scikit-learn
-How to Run:
+# How to Run:
 - Open the .ipynb file in Google Colab
 - Run all cells
-Author:
+# Author:
 Parnita
